@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @HasaanSaeed
+- 😄 Pronouns me as /Has-a-an/
+- 💻 Flutter Developer
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Flutter Development.
+- 🌱 Learning Something new..
 - 💞️ I’m looking to collaborate World wide with Flutter Community.
 - 🇵🇰 Faisalabad, Punjab, Pakistan
 -  (+92)-305-5513127

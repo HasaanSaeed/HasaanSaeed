@@ -1,8 +1,9 @@
 - 😄 Pronouns me as /Has-a-an/
-- 💻 Flutter Developer
+- 💻 Flutter Application Developer
 - 👀 I’m interested in Programming.
-- 🌱 Learning Something new..
+- 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate World wide with Flutter Community.
+- 📄 Know about my experiences https://www.linkedin.com/in/hasaansaeed00/
 - 🇵🇰 Faisalabad, Punjab, Pakistan
 -  (+92)-305-5513127
 

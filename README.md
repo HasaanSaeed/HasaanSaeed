@@ -8,7 +8,7 @@
 -  (+92)-305-5513127
 
 <h1 align="center">Hi 👋, I'm Hasaan Saeed</h1>
-<h3 align="center">A passionate Full-Stack Developer & Trainer from Pakistain</h3>
+<h3 align="center">A Passionate Full-Stack Developer & Trainer from Pakistain</h3>
 
 <br>
 ### Blogs posts

@@ -38,6 +38,7 @@
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=HasaanSaeed&show_icons=true&locale=en" alt="HasaanSaeed" /></p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=HasaanSaeed&" alt="HasaanSaeed" /></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasaanSaeed&theme=react-dark" />
 <!---
 HasaanSaeed/HasaanSaeed is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -36,8 +36,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasaanSaeed&show_icons=true&locale=en&layout=compact" alt="HasaanSaeed" /></p>
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=HasaanSaeed&show_icons=true&locale=en" alt="HasaanSaeed" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasaanSaeed&show_icons=true&theme=react)
 
-<img src="https://streak-stats.demolab.com/?user=HasaanSaeed&theme=react-dark&hide_border=true" />
 
 
 <!---

@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://assets2.lottiefiles.com/packages/lf20_kkflmtur.json" width="200" alt="Developer Lottie" />
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" alt="App Dev GIF"/>
 </p>
-
 <h1 align="center">
   Hi <span class="wave">👋</span>, I'm Hasaan Saeed
 </h1>

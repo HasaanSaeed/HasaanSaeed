@@ -37,10 +37,6 @@
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=HasaanSaeed&show_icons=true&locale=en" alt="HasaanSaeed" /></p>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=HasaanSaeed&" alt="HasaanSaeed" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=HasaanSaeed&show_icons=true&theme=react" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasaanSaeed&layout=compact&theme=react" />
-
 
 <!---
 HasaanSaeed/HasaanSaeed is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.

@@ -2,6 +2,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6F8FAF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Hasaan+Saeed;Flutter+Application+Developer;Backend+Developer+in+Progress;Open+for+Worldwide+Collaboration" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F9FF&center=true&vCenter=true&width=1000&lines=👨‍💻+Hasaan+Saeed;🚀+Flutter+Application+Developer;🌍+Open+to+Global+Collaboration;📫+hasaansaeed42@gmail.com;🇵🇰+Faisalabad%2C+Pakistan" alt="Typing SVG Hasaan" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F8FAF&height=250&section=header&text=Hasaan%20Saeed%20👋&fontSize=40&fontAlignY=35&desc=Flutter%20Developer%20|%20Tech%20Trainer%20|%20Pakistani%20Coder&descAlignY=65&descAlign=60&animation=twinkling&fontColor=ffffff" />
+</p>
 
 <!-- Wave SVG -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6F8FAF&height=200&section=header&text=Hasaan%20Saeed&fontAlign=40&fontSize=35&fontColor=ffffff" />
